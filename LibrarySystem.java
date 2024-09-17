@@ -1,5 +1,5 @@
 public class LibrarySystem{
     public String manageBooks(){
-        return "Manage Books";
+        return "Books Managed";
     }
 }

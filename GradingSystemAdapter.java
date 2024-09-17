@@ -7,6 +7,6 @@ public class GradingSystemAdapter implements SchoolManagementApp{
 
     @Override
     public String integrateSystem() {
-        return gradingSystem.gradingSystem();
+        return gradingSystem.recordGrades();
     }
 }

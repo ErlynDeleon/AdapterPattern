@@ -1,5 +1,5 @@
 public class GradingSystem{
-    public String gradingSystem(){
-        return "Grading System";
+    public String recordGrades(){
+        return "Graded";
     }
 }
